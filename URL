@@ -1,0 +1,2 @@
+curl --location --request POST 'https://www.facebook.com' \
+--header 'Cookie: fr=01uuCdUMLYVKyatCT..Bn_LNT..AAA.0.0.Bn_Lnr.AWcxTo7SvJq9wBB49nRE4k4RPWI; sb=U7P8Zxpu4OMy-LeTZ39ARVFO'
