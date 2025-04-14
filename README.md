@@ -1,1 +1,13 @@
 # API-TESTING-WITH-POSTMAN
+
+To test RESTful APIs in Postman for functionalities like authentication and data retrieval,create requests, define HTTP methods, and utilize headers and body data. For authentication, use the "Authorization" tab to specify the authentication type and credentials. For data retrieval, use the "GET" method and specify the API endpoint. 
+
+create a new request by clicking the "New" button and selecting "Request". 
+Choose the appropriate HTTP method (GET, POST, PUT, DELETE, etc.).Enter the API endpoint URL.
+Add necessary headers, such as "Content-Type" or "Authorization," in the "Headers" tab.Specify the format (e.g., raw, form-data) and add your data in JSON, XML, or another required format. 
+
+API requires authentication, open the "Authorization" tab.Choose the authentication type(e.g., Bearer Token, API Key).Provide the necessary credentials, such as the API key or token. 
+
+Click the "Send" button to execute the request. Postman will display the API response,then analyze to verify the functionality and data retrieval. organize requests into a collection for better organization and reuse. Use the Collection Runner to automate the execution of multiple requests in collection. Analyze the results of API tests to identify any issues or areas for improvement. 
+
+Link for API testing using Postman: https://www.postman.com/nikitasanap-4657304/workspace/nikita-sanap-s-workspace/request/43797199-108cf216-b230-469f-84c5-92865201b2f0?action=share&creator=43797199&ctx=documentation
