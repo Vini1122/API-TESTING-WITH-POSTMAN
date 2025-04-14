@@ -14,4 +14,6 @@ API requires authentication, open the "Authorization" tab.Choose the authenticat
 
 Click the "Send" button to execute the request. Postman will display the API response,then analyze to verify the functionality and data retrieval. organize requests into a collection for better organization and reuse. Use the Collection Runner to automate the execution of multiple requests in collection. Analyze the results of API tests to identify any issues or areas for improvement. 
 
+https://github.com/Vini1122/API-TESTING-WITH-POSTMAN/blob/72a4f1aaeecc337fab3078b114179d385405b5bc/README.md
+
 Link for API testing using Postman: https://www.postman.com/nikitasanap-4657304/workspace/nikita-sanap-s-workspace/request/43797199-108cf216-b230-469f-84c5-92865201b2f0?action=share&creator=43797199&ctx=documentation
