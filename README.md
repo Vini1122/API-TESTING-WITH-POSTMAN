@@ -10,6 +10,8 @@ Add necessary headers, such as "Content-Type" or "Authorization," in the "Header
 
 https://github.com/Vini1122/API-TESTING-WITH-POSTMAN/blob/af269ee8bd7d0381e175dd69e32246294f1c9f10/Screenshot%20(5).png
 
+https://github.com/Vini1122/API-TESTING-WITH-POSTMAN/blob/095a6f298a5737561b74f45675c414fa5847d563/Screenshot%20(7).png
+
 API requires authentication, open the "Authorization" tab.Choose the authentication type(e.g., Bearer Token, API Key).Provide the necessary credentials, such as the API key or token. 
 
 Click the "Send" button to execute the request. Postman will display the API response,then analyze to verify the functionality and data retrieval. organize requests into a collection for better organization and reuse. Use the Collection Runner to automate the execution of multiple requests in collection. Analyze the results of API tests to identify any issues or areas for improvement. 
